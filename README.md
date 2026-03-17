@@ -1,9 +1,9 @@
 # Igor Vinicius Silva
 
-💻 Software Developer | Desenvolvedor de Software
-🎓 Information Systems at UNIFEI (2021–2025) | Sistemas de Informação na UNIFEI (2021–2025)
-🎂 22y
-📍 Brazil
+Software Developer | Desenvolvedor de Software
+Information Systems at UNIFEI (2021–2025) | Sistemas de Informação na UNIFEI (2021–2025)
+22y
+São Paulo, Brazil
 
 Focused on software development e SaaS platforms.
 Focado no desenvolvimento de software e plataformas SaaS.
